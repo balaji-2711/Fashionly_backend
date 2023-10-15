@@ -16,7 +16,7 @@ const {
 } = require("../config/auth");
  
 //frontend url
-let url = "http://localhost:8000";
+let url = "https://velvety-melomakarona-e6a75b.netlify.app";
 
 //to connect to db
 mongoose.connect(dbUrl);
